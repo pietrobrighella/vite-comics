@@ -1,5 +1,5 @@
 <template>
-    <h1>Sono FOOTER</h1>
+    <h1>FOOTER</h1>
 </template>
 
 <script>
@@ -9,5 +9,6 @@
 </script>
 
 <style lang="scss" scoped>
+@use '../assets/styles/partials/variables' as *;
 
 </style>

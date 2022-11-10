@@ -2,8 +2,8 @@
   <HeaderComponent/>
   <MainComponent/>
   <SubMainComponent/>
-  <SubFooterComponent/>
   <FooterComponent />
+  <SubFooterComponent/>
 </template>
 
 <script>
@@ -18,6 +18,6 @@ import SubFooterComponent from './components/SubFooterComponent.vue';
 }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
 
 </style>
