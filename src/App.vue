@@ -20,4 +20,5 @@ import SubFooterComponent from './components/SubFooterComponent.vue';
 
 <style lang="scss">
 
+
 </style>
