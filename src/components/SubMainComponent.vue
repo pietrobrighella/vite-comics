@@ -1,10 +1,10 @@
 <template>
-    <h1>Sono HEADER</h1>
+    <h1>Sono SubMAIN</h1>
 </template>
 
 <script>
     export default {
-        name: 'HeaderComponent'
+        name: 'SubMainComponent'
     }
 </script>
 
