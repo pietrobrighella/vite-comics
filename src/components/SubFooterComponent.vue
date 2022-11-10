@@ -67,6 +67,13 @@ section {
             border: 1px solid $blue;
             color: $white;
             font-weight: 400;
+            cursor: pointer;
+
+            &:hover {
+                background-color: $blue;
+                color: $dark;
+                font-weight: 800;
+            }
         }
 
         div {
